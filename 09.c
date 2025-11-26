@@ -1,4 +1,4 @@
-//Q9: Write a program to calculate simple and compound interest for given principal, rate, and time.
+//Ques9: Write a program to calculate simple and compound interest for given principal, rate, and time.
 
 /*
 Sample Test Cases:

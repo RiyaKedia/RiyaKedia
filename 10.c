@@ -1,4 +1,4 @@
-//Q10: Write a program to input time in seconds and convert it to hours:minutes:seconds format.
+//Ques10: Write a program to input time in seconds and convert it to hours:minutes:seconds format.
 
 /*
 Sample Test Cases:
