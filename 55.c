@@ -1,4 +1,4 @@
-/*Q55: Write a program to print all the prime numbers from 1 to n.
+/*Ques55: Write a program to print all the prime numbers from 1 to n.
 
 Sample Test Cases:
 Input 1:

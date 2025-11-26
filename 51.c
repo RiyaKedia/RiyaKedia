@@ -1,4 +1,4 @@
-/*Q51: Write a program to print the following pattern:
+/*Ques51: Write a program to print the following pattern:
     5
    45
   345

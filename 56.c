@@ -1,4 +1,4 @@
-/*Q56: Read and print elements of a one-dimensional array.
+/*Ques56: Read and print elements of a one-dimensional array.
 
 Sample Test Cases:
 Input 1:

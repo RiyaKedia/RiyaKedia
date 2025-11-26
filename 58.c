@@ -1,4 +1,4 @@
-/*Q58: Find the maximum and minimum element in an array.
+/*Ques58: Find the maximum and minimum element in an array.
 
 Sample Test Cases:
 Input 1:

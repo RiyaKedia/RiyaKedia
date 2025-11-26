@@ -1,4 +1,4 @@
-/*Q60: Count positive, negative, and zero elements in an array.
+/*Ques60: Count positive, negative, and zero elements in an array.
 
 Sample Test Cases:
 Input 1:

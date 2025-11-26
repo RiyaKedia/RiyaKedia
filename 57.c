@@ -1,4 +1,4 @@
-/*Q57: Find the sum of array elements.
+/*Ques57: Find the sum of array elements.
 
 Sample Test Cases:
 Input 1:

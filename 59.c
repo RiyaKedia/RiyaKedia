@@ -1,4 +1,4 @@
-/*Q59: Count even and odd numbers in an array.
+/*Ques59: Count even and odd numbers in an array.
 
 Sample Test Cases:
 Input 1:

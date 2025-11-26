@@ -1,4 +1,4 @@
-/*Q52: Write a program to print the following pattern:
+/*Ques52: Write a program to print the following pattern:
 
 *
 
