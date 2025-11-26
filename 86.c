@@ -1,4 +1,4 @@
-//Q86: Check if a string is a palindrome.
+//Ques86: Check if a string is a palindrome.
 
 /*
 Sample Test Cases:

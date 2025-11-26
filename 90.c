@@ -1,4 +1,4 @@
-//Q90: Toggle case of each character in a string.
+//Ques90: Toggle case of each character in a string.
 
 /*
 Sample Test Cases:

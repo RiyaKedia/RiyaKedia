@@ -1,4 +1,4 @@
-//Q89: Count frequency of a given character in a string.
+//Ques89: Count frequency of a given character in a string.
 
 /*
 Sample Test Cases:

@@ -1,4 +1,4 @@
-//Q87: Count spaces, digits, and special characters in a string.
+//Ques87: Count spaces, digits, and special characters in a string.
 
 /*
 Sample Test Cases:
