@@ -1,4 +1,4 @@
-//Q30: Write a program to reverse a given number.
+//Ques30: Write a program to reverse a given number.
 
 /*
 Sample Test Cases:

@@ -1,4 +1,4 @@
-//Q24: Write a program to calculate an electricity bill based on units consumed.
+//Ques24: Write a program to calculate an electricity bill based on units consumed.
 
 /*
 Sample Test Cases:

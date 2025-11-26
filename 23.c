@@ -1,4 +1,4 @@
-//Q23: Write a program to calculate a library fine based on late days.
+//Ques23: Write a program to calculate a library fine based on late days.
 
 /*
 Sample Test Cases:
