@@ -1,4 +1,4 @@
-/*73: Find the sum of each row of a matrix and store it in an array.
+/*Ques73: Find the sum of each row of a matrix and store it in an array.
 
 Sample Test Cases:
 Input 1:

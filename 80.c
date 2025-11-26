@@ -1,4 +1,4 @@
-/*Q80: Multiply two matrices.
+/*Ques80: Multiply two matrices.
 
 Sample Test Cases:
 Input 1:

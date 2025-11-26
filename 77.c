@@ -1,4 +1,4 @@
-/*77: Check if the elements on the diagonal of a matrix are distinct.
+/*Ques77: Check if the elements on the diagonal of a matrix are distinct.
 
 Sample Test Cases:
 Input 1:

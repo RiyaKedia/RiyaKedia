@@ -1,4 +1,4 @@
-/*Q76: Check if a matrix is symmetric.
+/*Ques76: Check if a matrix is symmetric.
 
 Sample Test Cases:
 Input 1:

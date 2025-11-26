@@ -1,4 +1,4 @@
-/*Q75: Add two matrices.
+/*Ques75: Add two matrices.
 
 Sample Test Cases:
 Input 1:

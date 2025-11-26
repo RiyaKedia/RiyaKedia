@@ -1,4 +1,4 @@
-/*Q78: Find the sum of main diagonal elements for a square matrix.
+/*Ques78: Find the sum of main diagonal elements for a square matrix.
 
 Sample Test Cases:
 Input 1:

@@ -1,4 +1,4 @@
-/*Q72: Find the sum of all elements in a matrix.
+/*Ques72: Find the sum of all elements in a matrix.
 
 Sample Test Cases:
 Input 1:

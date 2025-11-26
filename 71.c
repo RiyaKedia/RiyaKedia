@@ -1,4 +1,4 @@
-/*Q71: Read and print a matrix.
+/*Ques71: Read and print a matrix.
 
 
 Sample Test Cases:
