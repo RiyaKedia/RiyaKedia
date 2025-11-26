@@ -1,4 +1,4 @@
-//Q98: Print initials of a name with the surname displayed in full.
+//Ques98: Print initials of a name with the surname displayed in full.
 
 /*
 Sample Test Cases:

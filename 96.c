@@ -1,4 +1,4 @@
-//Q96: Reverse each word in a sentence without changing the word order.
+//Ques96: Reverse each word in a sentence without changing the word order.
 
 /*
 Sample Test Cases:

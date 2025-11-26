@@ -1,4 +1,4 @@
-//Q97: Print the initials of a name.
+//Ques97: Print the initials of a name.
 
 /*
 Sample Test Cases:

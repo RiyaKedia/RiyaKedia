@@ -1,4 +1,4 @@
-//Q99: Change the date format from dd/04/yyyy to dd-Apr-yyyy.
+//Ques99: Change the date format from dd/04/yyyy to dd-Apr-yyyy.
 
 /*
 Sample Test Cases:

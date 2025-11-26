@@ -1,4 +1,4 @@
-//Q94: Find the longest word in a sentence.
+//Ques94: Find the longest word in a sentence.
 
 /*
 Sample Test Cases:

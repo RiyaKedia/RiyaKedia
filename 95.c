@@ -1,4 +1,4 @@
-//Q95: Check if one string is a rotation of another.
+//Ques95: Check if one string is a rotation of another.
 
 /*
 Sample Test Cases:

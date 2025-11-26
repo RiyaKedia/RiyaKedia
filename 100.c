@@ -1,4 +1,4 @@
-//Q100: Print all sub-strings of a string.
+//Ques100: Print all sub-strings of a string.
 
 /*
 Sample Test Cases:
