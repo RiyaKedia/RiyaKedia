@@ -1,4 +1,4 @@
-//Q41: Write a program to swap the first and last digit of a number.
+//Ques41: Write a program to swap the first and last digit of a number.
 
 /*
 Sample Test Cases:

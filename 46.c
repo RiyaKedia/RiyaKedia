@@ -1,4 +1,4 @@
-/*Q46: Write a program to print the following pattern:
+/*Ques46: Write a program to print the following pattern:
 *****
 *****
 *****
