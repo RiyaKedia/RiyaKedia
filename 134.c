@@ -1,4 +1,4 @@
-//Q134: Define an enum with SUCCESS, FAILURE, and TIMEOUT, and print messages accordingly.
+//Ques134: Define an enum with SUCCESS, FAILURE, and TIMEOUT, and print messages accordingly.
 
 /*
 Sample Test Cases:

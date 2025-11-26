@@ -1,4 +1,4 @@
-//Q139: Show that enums store integers by printing assigned values.
+//Ques139: Show that enums store integers by printing assigned values.
 
 /*
 Sample Test Cases:

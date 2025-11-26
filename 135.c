@@ -1,4 +1,4 @@
-//Q135: Assign explicit values starting from 10 and print them.
+//Ques135: Assign explicit values starting from 10 and print them.
 
 /*
 Sample Test Cases:

@@ -1,4 +1,4 @@
-//Q138: Print all enum names and integer values using a loop.
+//Ques138: Print all enum names and integer values using a loop.
 
 /*
 Sample Test Cases:

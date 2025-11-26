@@ -1,4 +1,4 @@
-//Q136: Use enum to represent menu choices (ADD, SUBTRACT, MULTIPLY) and perform operations using switch.
+//Ques136: Use enum to represent menu choices (ADD, SUBTRACT, MULTIPLY) and perform operations using switch.
 
 /*
 Sample Test Cases:
