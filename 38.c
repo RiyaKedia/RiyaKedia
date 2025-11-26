@@ -1,4 +1,4 @@
-//Q38: Write a program to find the sum of digits of a number.
+//Ques38: Write a program to find the sum of digits of a number.
 
 /*
 Sample Test Cases:

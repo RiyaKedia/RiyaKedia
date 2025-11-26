@@ -1,4 +1,4 @@
-//Q31: Write a program to take a number as input and print its equivalent binary representation.
+//Ques31: Write a program to take a number as input and print its equivalent binary representation.
 
 /*
 Sample Test Cases:

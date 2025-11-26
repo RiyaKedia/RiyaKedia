@@ -1,4 +1,4 @@
-//Q39: Write a program to find the product of odd digits of a number.
+//Ques39: Write a program to find the product of odd digits of a number.
 
 /*
 Sample Test Cases:

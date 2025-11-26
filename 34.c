@@ -1,4 +1,4 @@
-//Q34: Write a program to check if a number is prime.
+//Ques34: Write a program to check if a number is prime.
 
 /*
 Sample Test Cases:

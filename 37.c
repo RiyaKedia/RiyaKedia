@@ -1,4 +1,4 @@
-//Q37: Write a program to find the LCM of two numbers.
+//Ques37: Write a program to find the LCM of two numbers.
 
 /*
 Sample Test Cases:

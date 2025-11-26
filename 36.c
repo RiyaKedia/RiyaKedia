@@ -1,4 +1,4 @@
-//Q36: Write a program to find the HCF (GCD) of two numbers.
+//Ques36: Write a program to find the HCF (GCD) of two numbers.
 
 /*
 Sample Test Cases:

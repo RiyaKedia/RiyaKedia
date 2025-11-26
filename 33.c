@@ -1,4 +1,4 @@
-//Q33: Write a program to check if a number is an Armstrong number.
+//Ques33: Write a program to check if a number is an Armstrong number.
 
 /*
 Sample Test Cases:
