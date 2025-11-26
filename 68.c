@@ -1,4 +1,4 @@
-/*Q68: Delete an element from an array.
+/*Ques68: Delete an element from an array.
 
 Sample Test Cases:
 Input 1:

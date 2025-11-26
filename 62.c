@@ -1,4 +1,4 @@
-/*Q62: Reverse an array without taking extra space.
+/*Ques62: Reverse an array without taking extra space.
 
 Sample Test Cases:
 Input 1:

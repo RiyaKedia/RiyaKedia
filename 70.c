@@ -1,4 +1,4 @@
-/*Q70: Rotate an array to the right by k positions.
+/*Ques70: Rotate an array to the right by k positions.
 
 Sample Test Cases:
 Input 1:

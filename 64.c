@@ -1,4 +1,4 @@
-/*Q64: Find the digit that occurs the most times in an integer number.
+/*Ques64: Find the digit that occurs the most times in an integer number.
 
 Sample Test Cases:
 Input 1:

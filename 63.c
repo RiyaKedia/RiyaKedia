@@ -1,4 +1,4 @@
-/*Q63: Merge two arrays.
+/*Ques63: Merge two arrays.
 
 Sample Test Cases:
 Input 1:

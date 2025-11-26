@@ -1,4 +1,4 @@
-/*Q66: Insert an element in a sorted array at the appropriate position.
+/*Ques66: Insert an element in a sorted array at the appropriate position.
 
 Sample Test Cases:
 Input 1:

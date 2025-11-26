@@ -1,4 +1,4 @@
-/*Q61: Search for an element in an array using linear search.
+/*Ques61: Search for an element in an array using linear search.
 
 Sample Test Cases:
 Input 1:

@@ -1,4 +1,4 @@
-/*Q67: Insert an element in an array at a given position.
+/*Ques67: Insert an element in an array at a given position.
 
 Sample Test Cases:
 Input 1:
